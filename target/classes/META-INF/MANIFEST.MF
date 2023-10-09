@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: business
+Implementation-Version: 1.0
+Built-By: tuan
+Implementation-Vendor-Id: truotuan.spr
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/business/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
